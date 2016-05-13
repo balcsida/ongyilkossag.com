@@ -16,7 +16,7 @@ a:focus {
 
 h1, h2, h3 {
     color: #e23700;
-
+    padding-top: 1em;
 }
 
 /* LAYOUT CSS */
