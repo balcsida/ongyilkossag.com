@@ -40,6 +40,24 @@ h1, h2, h3 {
 .sidebar {
     background: #dcedc1;
     color: #333;
+    position: fixed;
+}
+
+#sav {
+    background: #ff5400;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 40px 0 25px 0;
+    margin: -32px -2em 0;
+    text-align: center;
+}
+
+#fokep {
+    background: url('img/zold.png') repeat;
+    margin: 0 -3em 0;
+    padding: 5em;
 }
 
 .content-subhead {
