@@ -34,7 +34,12 @@ h1, h2, h3 {
 .header {
     text-align: center;
     top: auto;
-    margin: 3em auto;
+    margin: 1em auto;
+}
+
+.header>a{
+    font-size: 2em;
+    font-weight: bold;
 }
 
 .sidebar {
@@ -99,7 +104,6 @@ h1, h2, h3 {
     }
 
     .sidebar {
-        position: fixed;
         top: 0;
         bottom: 0;
     }
